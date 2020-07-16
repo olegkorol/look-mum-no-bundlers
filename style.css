@@ -1,0 +1,8 @@
+p {
+  color: teal;
+}
+
+p:hover {
+  color: red;
+  cursor: grab;
+}
